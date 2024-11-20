@@ -25,3 +25,33 @@ Seaborn
 Numpy
 
 
+## Conclusion from the Study
+#### Driving factors of Defaulting
+Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
+
+1. DTI
+
+2. Grades
+
+3. Intrest Rates
+
+4. Verification Status
+
+5. Annual income
+
+6. Pub_rec_bankruptcies
+
+#### Recommendations
+Borrowers who are considered as "Defaulter"
+
+1. Borrowers who has 10+ years of experience.
+
+2. Who has High debt to Income ratio (DTI).
+
+3. Borrowers who has least grades like F, G & H are likely high risky customers.
+
+4. Borrowers who has Annual Income between 2.5 lakhs to 6 lakhs, are likely to become default.
+
+5. Borrowers who has declared the public Bankruptcy.
+
+
